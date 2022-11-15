@@ -1,5 +1,5 @@
 # ZViewer - image viewer for JS
-ZViewer allows you to enlarge photo to full screen and see it better.
+ZViewer allows you to open images in full screen view.
 
 **[DEMO DEMO DEMO DEMO DEMO](https://codepen.io/zgoly/full/OJEmBJR)**
 
